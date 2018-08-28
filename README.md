@@ -1,1 +1,1 @@
-# SYNERGY Summer School: Tutorial on parallel computing
+# SYNERGY Summer School: Tutorial on Parallel Computing
